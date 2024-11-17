@@ -95,7 +95,7 @@ agent.print_status()
 ### Output:
 ![image](https://github.com/user-attachments/assets/8b6ce032-4b86-4677-88fd-e73e40a1a0a0)
 
-### Reault:
+### Result:
 
 The PEAS description for the given AI problem has been succesfully developed using an AI agent
 
